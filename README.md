@@ -48,27 +48,13 @@ python main.py
 SpaceX Launch API
 
 OpenWeatherMap API
-
-yaml
-Copy
-Edit
-
 ---
-
-### 📄 3. `requirements.txt`
-
-```txt
+📄 3. `requirements.txt`
 requests
 python-dotenv
 📑 4. .env File (Don't share this publicly!)
-ini
-Copy
-Edit
 OPENWEATHER_API_KEY=your_api_key_here
 📝 5. Evaluation Report (Optional Example)
-markdown
-Copy
-Edit
 ## Evaluation: Goal Fulfillment
 
 ### Test Goal:
